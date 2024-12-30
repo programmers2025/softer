@@ -14,7 +14,7 @@ namespace softer
 {
     public partial class tableg : Form
     {
-        SqlConnection cn = new SqlConnection("Data Source = TEMPROG\\SQLEXPRESS; Initial Catalog = Mubalg; User Id = sa; Password = 123");
+        SqlConnection cn = new SqlConnection("Data Source = 192.168.1.102; Initial Catalog = Mubalg; User Id = sa; Password = 123");
         SqlCommand cmd = new SqlCommand();
         SqlDataAdapter Da = new SqlDataAdapter();
         public tableg()
