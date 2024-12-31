@@ -6437,7 +6437,7 @@
             // 
             // labname
             // 
-            this.labname.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labname.BackColor = System.Drawing.Color.Red;
             this.labname.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labname.ForeColor = System.Drawing.Color.Black;
             this.labname.Location = new System.Drawing.Point(1606, 143);
@@ -7038,7 +7038,7 @@
             // 
             // labshohra
             // 
-            this.labshohra.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labshohra.BackColor = System.Drawing.Color.Red;
             this.labshohra.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labshohra.ForeColor = System.Drawing.Color.Black;
             this.labshohra.Location = new System.Drawing.Point(1569, 732);
@@ -7050,7 +7050,7 @@
             // 
             // labmantqa
             // 
-            this.labmantqa.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labmantqa.BackColor = System.Drawing.Color.Red;
             this.labmantqa.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labmantqa.ForeColor = System.Drawing.Color.Black;
             this.labmantqa.Location = new System.Drawing.Point(1569, 692);
@@ -7062,7 +7062,7 @@
             // 
             // labgeha
             // 
-            this.labgeha.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labgeha.BackColor = System.Drawing.Color.Red;
             this.labgeha.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labgeha.ForeColor = System.Drawing.Color.Black;
             this.labgeha.Location = new System.Drawing.Point(1569, 652);
