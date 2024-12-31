@@ -195,3 +195,17 @@ C:\Users\acer\Desktop\Get\softer\softer 12-15-2024\softer\obj\Debug\softer.cspro
 C:\Users\acer\Desktop\Get\softer\softer 12-15-2024\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\acer\Desktop\Get\softer\softer 12-15-2024\softer\obj\Debug\softer.exe
 C:\Users\acer\Desktop\Get\softer\softer 12-15-2024\softer\obj\Debug\softer.pdb
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.login.resources
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.home.resources
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.tableg.resources
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.exe.licenses
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.exe
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.pdb
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\bin\Debug\softer.exe.config
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\bin\Debug\softer.exe
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\bin\Debug\softer.pdb
+C:\Users\ASUS rog\Desktop\git\New folder\softer\softer 12-15-2024\softer\obj\Debug\softer.csproj.Up2Date
