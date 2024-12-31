@@ -6437,7 +6437,7 @@
             // 
             // labname
             // 
-            this.labname.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labname.BackColor = System.Drawing.Color.LightSlateGray;
             this.labname.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labname.ForeColor = System.Drawing.Color.Black;
             this.labname.Location = new System.Drawing.Point(1606, 143);
