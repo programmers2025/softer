@@ -125,13 +125,7 @@ namespace softer
 
         private void btnedara_Click(object sender, EventArgs e)
         {
-            if (flomenu.Width == 50)
-            {
-            }
-            else if (flomenu.Width > 50)
-            {
-                MessageBox.Show("ستتوفر قريباً");
-            }
+
         }
 
        
