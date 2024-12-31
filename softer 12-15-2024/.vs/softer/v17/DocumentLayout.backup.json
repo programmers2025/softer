@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\asus rog\\desktop\\git\\new folder\\softer\\softer 12-15-2024\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\asus rog\\desktop\\git\\new folder\\softer\\softer 12-15-2024\\softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\asus rog\\desktop\\git\\new folder\\softer\\softer 12-15-2024\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,35 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "tableg.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.Designer.cs",
-              "RelativeDocumentMoniker": "softer\\tableg.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.Designer.cs*",
-              "RelativeToolTip": "softer\\tableg.Designer.cs*",
-              "ViewState": "AgIAABMZAAAAAAAAAAAuwCoZAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T07:48:02.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs",
-              "RelativeDocumentMoniker": "softer\\home.cs",
-              "ToolTip": "C:\\Users\\alityan\\Desktop\\copes\\29-12-2024\\Final\\Final\\softer 12-15-2024\\softer\\home.cs [Design]*",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\alityan\\Desktop\\copes\\29-12-2024\\Final\\Final\\softer 12-15-2024\\softer\\home.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T06:37:06.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "tableg.cs",
               "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
@@ -67,7 +43,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tableg.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.Designer.cs",
+              "RelativeDocumentMoniker": "softer\\tableg.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.Designer.cs",
+              "RelativeToolTip": "softer\\tableg.Designer.cs",
+              "ViewState": "AgIAABMZAAAAAAAAAAAuwCoZAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:48:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs",
+              "RelativeDocumentMoniker": "softer\\home.cs",
+              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs [Design]",
+              "RelativeToolTip": "softer\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:37:06.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "tableg.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
