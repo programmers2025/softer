@@ -577,14 +577,14 @@ namespace softer
                 if (columnConfig == 1)
                 {
                     dataGrid.Columns[0].Visible = false;
-                    dataGrid.Columns[1].HeaderText = "id";
+                    dataGrid.Columns[1].Visible = false;
                     dataGrid.Columns[2].HeaderText = "اسم المادة";
                     dataGrid.Columns[3].HeaderText = "اسم الكتاب";
                 }
                 else if (columnConfig == 2)
                 {
                     dataGrid.Columns[0].Visible = false;
-                    dataGrid.Columns[1].HeaderText = "id";
+                    dataGrid.Columns[1].Visible = false;
                     dataGrid.Columns[2].HeaderText = "السنة المنهجية";
                     dataGrid.Columns[3].HeaderText = "اسم الاستاذ";
                 }
