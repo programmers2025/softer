@@ -128,8 +128,10 @@ namespace softer
 
         }
 
-       
-
-        
+        private void home_Load(object sender, EventArgs e)
+        {
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.Size = new Size(1350, 730);
+        }
     }
 }
