@@ -7,11 +7,19 @@
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\Get\\softer\\softer 12-15-2024\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\Get\\softer\\softer 12-15-2024\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 268ee07afbe9384f29d88db05651dc6815bf3fbb
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,6 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\git\\New folder\\softer\\softer 12-15-2024\\softer\\home.cs",
+=======
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -41,6 +58,7 @@
               "DocumentIndex": 1,
               "Title": "home.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Get\\softer\\softer 12-15-2024\\softer\\home.cs",
+>>>>>>> 268ee07afbe9384f29d88db05651dc6815bf3fbb
               "RelativeDocumentMoniker": "softer\\home.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\Get\\softer\\softer 12-15-2024\\softer\\home.cs",
               "RelativeToolTip": "softer\\home.cs",
@@ -61,7 +79,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+=======
               "DocumentIndex": 3,
+>>>>>>> 268ee07afbe9384f29d88db05651dc6815bf3fbb
               "Title": "tableg.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Get\\softer\\softer 12-15-2024\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
