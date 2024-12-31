@@ -6332,7 +6332,7 @@
             // 
             // labdateemama
             // 
-            this.labdateemama.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labdateemama.BackColor = System.Drawing.Color.LightSlateGray;
             this.labdateemama.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labdateemama.ForeColor = System.Drawing.Color.Black;
             this.labdateemama.Location = new System.Drawing.Point(1150, 254);
