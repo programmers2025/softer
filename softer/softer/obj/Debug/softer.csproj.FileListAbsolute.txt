@@ -167,3 +167,17 @@ C:\Users\alityan\Desktop\copes\29-12-2024\Final\Final\softer 12-15-2024\softer\o
 C:\Users\alityan\Desktop\copes\29-12-2024\Final\Final\softer 12-15-2024\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\alityan\Desktop\copes\29-12-2024\Final\Final\softer 12-15-2024\softer\obj\Debug\softer.exe
 C:\Users\alityan\Desktop\copes\29-12-2024\Final\Final\softer 12-15-2024\softer\obj\Debug\softer.pdb
+C:\Users\acer\Desktop\Get\softer\softer\softer\bin\Debug\softer.exe.config
+C:\Users\acer\Desktop\Get\softer\softer\softer\bin\Debug\softer.exe
+C:\Users\acer\Desktop\Get\softer\softer\softer\bin\Debug\softer.pdb
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.login.resources
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.home.resources
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.exe.licenses
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.exe
+C:\Users\acer\Desktop\Get\softer\softer\softer\obj\Debug\softer.pdb
