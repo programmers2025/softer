@@ -6344,7 +6344,7 @@
             // 
             // labemama
             // 
-            this.labemama.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labemama.BackColor = System.Drawing.Color.LightSlateGray;
             this.labemama.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labemama.ForeColor = System.Drawing.Color.Black;
             this.labemama.Location = new System.Drawing.Point(1150, 217);
