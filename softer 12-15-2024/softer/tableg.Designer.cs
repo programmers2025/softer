@@ -6425,7 +6425,7 @@
             // 
             // labmom
             // 
-            this.labmom.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.labmom.BackColor = System.Drawing.Color.LightSlateGray;
             this.labmom.Font = new System.Drawing.Font("Tahoma", 10F);
             this.labmom.ForeColor = System.Drawing.Color.Black;
             this.labmom.Location = new System.Drawing.Point(1606, 217);
