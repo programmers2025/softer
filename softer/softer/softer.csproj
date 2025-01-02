@@ -236,6 +236,30 @@
   <ItemGroup>
     <None Include="Resources\menus %283%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburger %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تدقيق-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تقارير-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nnn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\الدعم-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\رجوع-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ملاحظات-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\اضافة2-removebg-preview.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

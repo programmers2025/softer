@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alityan\\Desktop\\git\\softer\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\alityan\\desktop\\git\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\asus\\desktop\\desinger\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,59 +26,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "home.cs",
-              "DocumentMoniker": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\home.cs",
-              "RelativeDocumentMoniker": "softer\\home.cs",
-              "ToolTip": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\home.cs",
-              "RelativeToolTip": "softer\\home.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAowIUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "tableg.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs",
+              "RelativeDocumentMoniker": "softer\\tableg.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs",
+              "RelativeToolTip": "softer\\tableg.cs",
+              "ViewState": "AgIAANMCAAAAAAAAAAAMwNoCAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T07:37:30.31Z"
+              "WhenOpened": "2024-12-31T06:37:06.746Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\home.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs",
               "RelativeDocumentMoniker": "softer\\home.cs",
-              "ToolTip": "C:\\Users\\alityan\\Desktop\\New folder (4)\\soft\\softer\\softer 12-15-2024\\softer\\home.cs [Design]",
-              "RelativeToolTip": "..\\..\\New folder (4)\\soft\\softer\\softer 12-15-2024\\softer\\home.cs [Design]",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs [Design]",
+              "RelativeToolTip": "softer\\home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T06:37:06.727Z"
+              "WhenOpened": "2025-01-02T10:08:21.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tableg.cs",
-              "DocumentMoniker": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\tableg.cs",
-              "RelativeDocumentMoniker": "softer\\tableg.cs",
-              "ToolTip": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\tableg.cs",
-              "RelativeToolTip": "softer\\tableg.cs",
-              "ViewState": "AgIAADgCAAAAAAAAAAAowA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs",
+              "RelativeDocumentMoniker": "softer\\home.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\home.cs",
+              "RelativeToolTip": "softer\\home.cs",
+              "ViewState": "AgIAAHcAAAAAGhYK/7kXwIYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T06:37:06.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T07:37:30.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "tableg.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\tableg.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
-              "ToolTip": "C:\\Users\\alityan\\Desktop\\git\\softer\\softer\\tableg.cs [Design]",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs [Design]",
               "RelativeToolTip": "softer\\tableg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T06:37:06.866Z",

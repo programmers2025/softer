@@ -738,5 +738,30 @@ namespace softer
             name_tech_out.Text = "";
             cn.Close();
         }
+
+        private void Form_astqtab1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtname4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtmom_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comwlada_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtname1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
