@@ -727,7 +727,7 @@
             this.btnadd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnadd.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.btnadd.ForeColor = System.Drawing.Color.Black;
-            this.btnadd.Location = new System.Drawing.Point(1207, 82);
+            this.btnadd.Location = new System.Drawing.Point(1208, 82);
             this.btnadd.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnadd.Name = "btnadd";
             this.btnadd.Size = new System.Drawing.Size(496, 135);
@@ -742,7 +742,7 @@
             this.Form_astqtab9.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab9.Name = "Form_astqtab9";
             this.Form_astqtab9.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab9.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab9.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab9.TabIndex = 8;
             this.Form_astqtab9.Text = "ملاحظات";
             // 
@@ -754,7 +754,7 @@
             this.Form_astqtab8.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab8.Name = "Form_astqtab8";
             this.Form_astqtab8.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab8.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab8.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab8.TabIndex = 7;
             this.Form_astqtab8.Text = "تدقيق";
             // 
@@ -851,7 +851,7 @@
             this.Form_astqtab7.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab7.Name = "Form_astqtab7";
             this.Form_astqtab7.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab7.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab7.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab7.TabIndex = 6;
             this.Form_astqtab7.Text = "الصفحة الثالثة";
             this.Form_astqtab7.UseVisualStyleBackColor = true;
@@ -871,7 +871,7 @@
             this.pan_page_3.Location = new System.Drawing.Point(4, 5);
             this.pan_page_3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pan_page_3.Name = "pan_page_3";
-            this.pan_page_3.Size = new System.Drawing.Size(1924, 977);
+            this.pan_page_3.Size = new System.Drawing.Size(1010, 977);
             this.pan_page_3.TabIndex = 4;
             // 
             // group_page_3
@@ -1452,7 +1452,7 @@
             this.Form_astqtab6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab6.Name = "Form_astqtab6";
             this.Form_astqtab6.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab6.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab6.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab6.TabIndex = 5;
             this.Form_astqtab6.Text = "مرحلة الخارج";
             this.Form_astqtab6.UseVisualStyleBackColor = true;
@@ -1467,7 +1467,7 @@
             this.pan_out.Location = new System.Drawing.Point(4, 5);
             this.pan_out.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pan_out.Name = "pan_out";
-            this.pan_out.Size = new System.Drawing.Size(1924, 977);
+            this.pan_out.Size = new System.Drawing.Size(1010, 977);
             this.pan_out.TabIndex = 5;
             // 
             // transfer_thired
@@ -1953,7 +1953,7 @@
             this.Form_astqtab5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab5.Name = "Form_astqtab5";
             this.Form_astqtab5.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab5.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab5.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab5.TabIndex = 4;
             this.Form_astqtab5.Text = "مرحلة السطوح العليا";
             this.Form_astqtab5.UseVisualStyleBackColor = true;
@@ -1969,7 +1969,7 @@
             this.pan_stoh_on.Location = new System.Drawing.Point(4, 5);
             this.pan_stoh_on.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pan_stoh_on.Name = "pan_stoh_on";
-            this.pan_stoh_on.Size = new System.Drawing.Size(1924, 977);
+            this.pan_stoh_on.Size = new System.Drawing.Size(1010, 977);
             this.pan_stoh_on.TabIndex = 4;
             // 
             // transfer_out
@@ -2582,7 +2582,7 @@
             this.Form_astqtab4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab4.Name = "Form_astqtab4";
             this.Form_astqtab4.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab4.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab4.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab4.TabIndex = 3;
             this.Form_astqtab4.Text = "مرحلة السطوح الاولى";
             this.Form_astqtab4.UseVisualStyleBackColor = true;
@@ -2599,7 +2599,7 @@
             this.pan_stoh_one.Location = new System.Drawing.Point(4, 5);
             this.pan_stoh_one.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pan_stoh_one.Name = "pan_stoh_one";
-            this.pan_stoh_one.Size = new System.Drawing.Size(1924, 977);
+            this.pan_stoh_one.Size = new System.Drawing.Size(1010, 977);
             this.pan_stoh_one.TabIndex = 3;
             // 
             // transfer_first
@@ -3209,7 +3209,7 @@
             this.Form_astqtab3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab3.Name = "Form_astqtab3";
             this.Form_astqtab3.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab3.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab3.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab3.TabIndex = 2;
             this.Form_astqtab3.Text = "مرحلة المقدمات";
             this.Form_astqtab3.UseVisualStyleBackColor = true;
@@ -3236,7 +3236,7 @@
             this.panelmoq.Location = new System.Drawing.Point(4, 5);
             this.panelmoq.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelmoq.Name = "panelmoq";
-            this.panelmoq.Size = new System.Drawing.Size(1924, 977);
+            this.panelmoq.Size = new System.Drawing.Size(1010, 977);
             this.panelmoq.TabIndex = 60;
             // 
             // transfer
@@ -3955,7 +3955,7 @@
             this.Form_astqtab2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab2.Name = "Form_astqtab2";
             this.Form_astqtab2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab2.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab2.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab2.TabIndex = 1;
             this.Form_astqtab2.Text = "الصفحة الثانية";
             this.Form_astqtab2.UseVisualStyleBackColor = true;
@@ -3974,7 +3974,7 @@
             this.paneltableg3.Location = new System.Drawing.Point(4, 5);
             this.paneltableg3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.paneltableg3.Name = "paneltableg3";
-            this.paneltableg3.Size = new System.Drawing.Size(1924, 977);
+            this.paneltableg3.Size = new System.Drawing.Size(1010, 977);
             this.paneltableg3.TabIndex = 2;
             // 
             // panelbut
@@ -5200,7 +5200,7 @@
             this.panelwtha.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelwtha.Name = "panelwtha";
             this.panelwtha.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.panelwtha.Size = new System.Drawing.Size(12376, 115);
+            this.panelwtha.Size = new System.Drawing.Size(12262, 115);
             this.panelwtha.TabIndex = 44;
             // 
             // comtypedis4
@@ -5897,14 +5897,13 @@
             this.tabControl1.Controls.Add(this.Form_astqtab7);
             this.tabControl1.Controls.Add(this.Form_astqtab8);
             this.tabControl1.Controls.Add(this.Form_astqtab9);
-            this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.tabControl1.RightToLeftLayout = true;
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1940, 1020);
+            this.tabControl1.Size = new System.Drawing.Size(1026, 1020);
             this.tabControl1.TabIndex = 23;
             this.tabControl1.Visible = false;
             this.tabControl1.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
@@ -6033,7 +6032,7 @@
             this.Form_astqtab1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab1.Name = "Form_astqtab1";
             this.Form_astqtab1.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Form_astqtab1.Size = new System.Drawing.Size(1932, 987);
+            this.Form_astqtab1.Size = new System.Drawing.Size(1018, 987);
             this.Form_astqtab1.TabIndex = 0;
             this.Form_astqtab1.Text = "الصفحة الاولى";
             this.Form_astqtab1.Click += new System.EventHandler(this.Form_astqtab1_Click);
