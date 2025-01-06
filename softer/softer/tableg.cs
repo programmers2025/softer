@@ -14,7 +14,7 @@ namespace softer
 {
     public partial class tableg : Form
     {
-        SqlConnection cn = new SqlConnection("Data Source = 192.168.1.102; Initial Catalog = Mubalg; User Id = sa; Password = 123");
+        SqlConnection cn = new SqlConnection("Data Source = 192.168.1.101; Initial Catalog = Mubalg; User Id = sa; Password = 123");
         SqlCommand cmd = new SqlCommand();
         SqlDataAdapter Da = new SqlDataAdapter();
         public tableg()
@@ -281,73 +281,52 @@ namespace softer
 
         private void btnblas_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { panelwtha, panelcart, paneldwra, panelcarttd,panelbut };
-            PanelExpander expander = new PanelExpander(panelaml, panelsToMove, btnblas, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas2_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { panelcart, paneldwra, panelcarttd, panelbut };
-            PanelExpander expander = new PanelExpander(panelwtha, panelsToMove, btnblas2, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas3_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { paneldwra, panelcarttd, panelbut };
-            PanelExpander expander = new PanelExpander(panelcart, panelsToMove, btnblas3, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas4_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { panelcarttd, panelbut };
-            PanelExpander expander = new PanelExpander(paneldwra, panelsToMove, btnblas4, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas5_Click(object sender, EventArgs e)
         {
-            // هنا تمرير Panel3 كـ scrollablePanel للتحكم في التمرير
-            List<Panel> panelsToMove = new List<Panel> { panelbut };
-            PanelExpander expander = new PanelExpander(panelcarttd, panelsToMove, btnblas5, 150, panelbut);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas6_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { };
-            PanelExpander expander = new PanelExpander(panalmqdmat, panelsToMove, btnblas6, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas7_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { };
-            PanelExpander expander = new PanelExpander(panelstoh1, panelsToMove, btnblas7, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas8_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { };
-            PanelExpander expander = new PanelExpander(panelstoh2, panelsToMove, btnblas8, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas9_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { };
-            PanelExpander expander = new PanelExpander(panelout, panelsToMove, btnblas9, 150);
-            expander.ExpandPanel();
+
         }
 
         private void btnblas10_Click(object sender, EventArgs e)
         {
-            List<Panel> panelsToMove = new List<Panel> { };
-            PanelExpander expander = new PanelExpander(panelmoarfon, panelsToMove, btnblas10, 150);
-            expander.ExpandPanel();
+
         }
 
         private void scanpic_Click(object sender, EventArgs e)
@@ -737,6 +716,83 @@ namespace softer
             LoadDataIntoGrid("SelectKhTeachersDataGrid", idd, dataView_out, 2);
             name_tech_out.Text = "";
             cn.Close();
+        }
+
+        
+
+        private void button2_Click_3(object sender, EventArgs e)
+        {
+            MessageBox.Show("dddd");
+        }
+
+        private void btnblas_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { panelwtha, panelcart, paneldwra, panelcarttd, panelbut };
+            PanelExpander expander = new PanelExpander(panelaml, panelsToMove, btnblas, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas2_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { panelcart, paneldwra, panelcarttd, panelbut };
+            PanelExpander expander = new PanelExpander(panelwtha, panelsToMove, btnblas2, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas3_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { paneldwra, panelcarttd, panelbut };
+            PanelExpander expander = new PanelExpander(panelcart, panelsToMove, btnblas3, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas4_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { panelcarttd, panelbut };
+            PanelExpander expander = new PanelExpander(paneldwra, panelsToMove, btnblas4, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas5_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { panelbut };
+            PanelExpander expander = new PanelExpander(panelcarttd, panelsToMove, btnblas5, 150, panelbut);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas6_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { };
+            PanelExpander expander = new PanelExpander(panalmqdmat, panelsToMove, btnblas6, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas7_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { };
+            PanelExpander expander = new PanelExpander(panelstoh1, panelsToMove, btnblas7, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas8_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { };
+            PanelExpander expander = new PanelExpander(panelstoh2, panelsToMove, btnblas8, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas9_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { };
+            PanelExpander expander = new PanelExpander(panelout, panelsToMove, btnblas9, 150);
+            expander.ExpandPanel();
+        }
+
+        private void btnblas10_Click_1(object sender, EventArgs e)
+        {
+            List<Panel> panelsToMove = new List<Panel> { };
+            PanelExpander expander = new PanelExpander(panelmoarfon, panelsToMove, btnblas10, 150);
+            expander.ExpandPanel();
         }
     }
 }

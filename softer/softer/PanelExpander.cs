@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Guna.UI2.WinForms; // إضافة المكتبة الخاصة بـ Guna
 
 namespace softer
 {
@@ -13,18 +9,18 @@ namespace softer
     {
         private Panel mainPanel;
         private List<Panel> panelsToMove;
-        private Guna2Button buttonToMove;
+        private PictureBox buttonToMove; // تعديل النوع إلى PictureBox
         private int maxHeight;
         private int heightIncrement;
         private int buttonMoveLimit;
         private Panel scrollablePanel;  // Panel to scroll if needed
 
         // Constructor to initialize the class
-        public PanelExpander(Panel mainPanel, List<Panel> panelsToMove, Guna2Button buttonToMove, int maxHeight, Panel scrollablePanel = null, int heightIncrement = 25, int buttonMoveLimit = 125)
+        public PanelExpander(Panel mainPanel, List<Panel> panelsToMove, PictureBox buttonToMove, int maxHeight, Panel scrollablePanel = null, int heightIncrement = 25, int buttonMoveLimit = 125)
         {
             this.mainPanel = mainPanel;
             this.panelsToMove = panelsToMove;
-            this.buttonToMove = buttonToMove;
+            this.buttonToMove = buttonToMove;  // الآن من نوع PictureBox
             this.maxHeight = maxHeight;
             this.heightIncrement = heightIncrement;
             this.buttonMoveLimit = buttonMoveLimit;
@@ -47,7 +43,7 @@ namespace softer
                     panel.Location = new Point(panel.Location.X, panel.Location.Y + heightIncrement);
                 }
 
-                // Move the button
+                // Move the PictureBox
                 if (buttonY < maxHeight)
                 {
                     buttonY += heightIncrement;
@@ -59,7 +55,7 @@ namespace softer
                         scrollablePanel.AutoScrollPosition = new Point(0, scrollablePanel.VerticalScroll.Maximum);
                     }
 
-                    // Hide the button if it reaches the specified limit
+                    // Hide the PictureBox if it reaches the specified limit
                     if (buttonY >= buttonMoveLimit)
                     {
                         buttonToMove.Hide();

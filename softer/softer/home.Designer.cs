@@ -544,7 +544,7 @@
             this.btn_slide_main.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_slide_main.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_slide_main.ForeColor = System.Drawing.Color.Moccasin;
-            this.btn_slide_main.Image = global::softer.Properties.Resources.menus__3_;
+            this.btn_slide_main.Image = global::softer.Properties.Resources._interface;
             this.btn_slide_main.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_slide_main.Location = new System.Drawing.Point(4, 5);
             this.btn_slide_main.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
