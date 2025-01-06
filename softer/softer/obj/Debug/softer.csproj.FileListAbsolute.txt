@@ -265,3 +265,17 @@ C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.csproj.Core
 C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.exe
 C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.pdb
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\bin\Debug\softer.exe.config
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\bin\Debug\softer.exe
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\bin\Debug\softer.pdb
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.login.resources
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.home.resources
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.exe.licenses
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.csproj.Up2Date
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.exe
+C:\Users\Asus\Desktop\desinger\softer - Copy (2)\softer\softer\obj\Debug\softer.pdb
