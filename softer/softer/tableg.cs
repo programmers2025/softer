@@ -14,7 +14,7 @@ namespace softer
 {
     public partial class tableg : Form
     {
-        SqlConnection cn = new SqlConnection("Data Source = 192.168.1.102; Initial Catalog = Mubalg; User Id = sa; Password = 123");
+        SqlConnection cn = new SqlConnection("Data Source = 192.168.1.101; Initial Catalog = Mubalg; User Id = sa; Password = 123");
         SqlCommand cmd = new SqlCommand();
         SqlDataAdapter Da = new SqlDataAdapter();
         public tableg()
@@ -737,6 +737,31 @@ namespace softer
             LoadDataIntoGrid("SelectKhTeachersDataGrid", idd, dataView_out, 2);
             name_tech_out.Text = "";
             cn.Close();
+        }
+
+        private void Form_astqtab1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtname4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtmom_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comwlada_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtname1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
