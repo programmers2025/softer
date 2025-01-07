@@ -66,6 +66,7 @@
             this.btnastqtab = new System.Windows.Forms.Button();
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.form_panel = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.headpanal.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnmin)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnclose)).BeginInit();
@@ -74,6 +75,8 @@
             this.depsidebar.SuspendLayout();
             this.flomenu.SuspendLayout();
             this.paneltableg.SuspendLayout();
+            this.form_panel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // headpanal
@@ -681,12 +684,24 @@
             this.form_panel.BackColor = System.Drawing.Color.Silver;
             this.form_panel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("form_panel.BackgroundImage")));
             this.form_panel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.form_panel.Controls.Add(this.pictureBox1);
             this.form_panel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.form_panel.Location = new System.Drawing.Point(0, 69);
             this.form_panel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.form_panel.Name = "form_panel";
             this.form_panel.Size = new System.Drawing.Size(1765, 1054);
             this.form_panel.TabIndex = 44;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(0, 839);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1765, 215);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // home
             // 
@@ -715,6 +730,8 @@
             this.depsidebar.ResumeLayout(false);
             this.flomenu.ResumeLayout(false);
             this.paneltableg.ResumeLayout(false);
+            this.form_panel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -757,6 +774,7 @@
         public System.Windows.Forms.FlowLayoutPanel flomenu;
         private System.Windows.Forms.Label labhekma;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
