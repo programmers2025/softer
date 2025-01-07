@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "home.resx",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.resx",
               "RelativeDocumentMoniker": "softer\\home.resx",
               "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.resx",
               "RelativeToolTip": "softer\\home.resx",
-              "ViewState": "AgIAAJIAAAAAAAAAAADgv6MAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAADgv6gAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-01-07T12:17:18.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs",
               "RelativeDocumentMoniker": "softer\\home.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs [Design]",
               "RelativeToolTip": "softer\\home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T12:13:18.59Z"
+              "WhenOpened": "2025-01-07T12:13:18.59Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
