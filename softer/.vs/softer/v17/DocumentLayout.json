@@ -1,11 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -18,21 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\asus rog\\desktop\\new folder (2)\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> 731cf7fa3f535bf8182f7d4a4b7a02904db6dcf6
     }
   ],
   "DocumentGroupContainers": [
@@ -46,22 +34,12 @@
           "Children": [
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs",
               "RelativeDocumentMoniker": "softer\\home.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs [Design]",
               "RelativeToolTip": "softer\\home.cs [Design]",
-=======
-              "DocumentIndex": 1,
-              "Title": "tableg.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\tableg.cs",
-              "RelativeDocumentMoniker": "softer\\tableg.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\tableg.cs",
-              "RelativeToolTip": "softer\\tableg.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAnwHIAAAAMAAAAAAAAAA==",
->>>>>>> 731cf7fa3f535bf8182f7d4a4b7a02904db6dcf6
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T08:58:05.106Z",
               "IsPinned": true,
@@ -72,24 +50,31 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.Designer.cs",
+              "RelativeDocumentMoniker": "softer\\home.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.Designer.cs",
+              "RelativeToolTip": "softer\\home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:46:34.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "tableg.cs [Design]",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Asus\\Desktop\\desinger\\softer\\softer\\softer\\tableg.cs [Design]",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs [Design]",
+              "RelativeToolTip": "softer\\tableg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T07:41:50.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< HEAD
+              "DocumentIndex": 3,
               "Title": "tableg.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
@@ -101,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "home.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs",
               "RelativeDocumentMoniker": "softer\\home.cs",
@@ -110,27 +95,6 @@
               "ViewState": "AgIAAK0AAAAAAAAAAAAQwMYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T10:51:10.093Z"
-=======
-              "Title": "home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\home.cs",
-              "RelativeDocumentMoniker": "softer\\home.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\home.cs [Design]",
-              "RelativeToolTip": "softer\\home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:50:26.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tableg.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\tableg.cs",
-              "RelativeDocumentMoniker": "softer\\tableg.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\New folder (2)\\softer\\softer\\softer\\tableg.cs [Design]",
-              "RelativeToolTip": "softer\\tableg.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T11:03:26.077Z",
-              "EditorCaption": " [Design]"
->>>>>>> 731cf7fa3f535bf8182f7d4a4b7a02904db6dcf6
             }
           ]
         }
