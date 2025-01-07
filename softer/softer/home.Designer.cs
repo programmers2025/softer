@@ -858,16 +858,13 @@
         public System.Windows.Forms.Button btnsetting;
         public System.Windows.Forms.FlowLayoutPanel flomenu;
         private System.Windows.Forms.Label labhekma;
-<<<<<<< HEAD
         private System.Windows.Forms.Button btn_sysai;
         public System.Windows.Forms.Button btn_sport;
         public System.Windows.Forms.Button btn_notee;
         private System.Windows.Forms.Panel sittingsidebar;
         private System.Windows.Forms.Button btn_accont;
-=======
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
->>>>>>> main
     }
 }
 

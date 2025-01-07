@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|c:\\users\\acer\\desktop\\new folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|solutionrelative:softer\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E970B783-FF84-4858-A132-81967E28507C}|softer\\softer.csproj|C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.cs",
               "RelativeDocumentMoniker": "softer\\home.cs",
@@ -51,16 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.Designer.cs",
               "RelativeDocumentMoniker": "softer\\home.Designer.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.Designer.cs",
               "RelativeToolTip": "softer\\home.Designer.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T11:46:34.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T11:46:34.351Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "softer\\home.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAQwMYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:51:10.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T10:51:10.093Z"
             }
           ]
         }
