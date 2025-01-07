@@ -33,14 +33,14 @@ namespace softer
         {
             if (flomenu.Width == 50)
             {
-                flomenu.Width = 173;
+                flomenu.Width = 185;
             }
             else
             {
                 flomenu.Width = 50;
                 paneltableg.Visible = false;
                 depsidebar.Width = 0;
-                settingsidebar.Width = 0;
+                sittingsidebar.Height = 0;
             }
         }
 
@@ -51,10 +51,10 @@ namespace softer
             }
             else if (flomenu.Width > 50)
             {
-                if (depsidebar.Width == 0 || settingsidebar.Width == 262)
+                if (depsidebar.Width == 0 || sittingsidebar.Width == 290)
                 {
-                    settingsidebar.Width = 0;
-                    depsidebar.Width = 262;
+                    //sittingsidebar.Width = 0;
+                    depsidebar.Width = 290;
 
                 }
                 else
@@ -67,22 +67,24 @@ namespace softer
 
         private void btnsetting_Click(object sender, EventArgs e)
         {
+
             if (flomenu.Width == 50)
-            {
+            { 
             }
-            else if (flomenu.Width > 50)
+            else {
+                if (sittingsidebar.Height == 0)
             {
-                if (settingsidebar.Width == 0 || depsidebar.Width == 225)
-                {
-                    depsidebar.Width = 0;
-                    paneltableg.Visible = false;
-                    settingsidebar.Width = 116;
-                }
-                else
-                {
-                    settingsidebar.Width = 0;
-                }
+                sittingsidebar.Height = 265;
+
+
+
             }
+            else
+            {
+                sittingsidebar.Height = 0;
+
+            }
+        }
         }
 
         private void btntableg_Click(object sender, EventArgs e)
@@ -132,6 +134,74 @@ namespace softer
         {
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Size = new Size(1350, 730);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_aa_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_a_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_aaa_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_aaaa_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_aaaaa_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("ستتوفر قريباً");
+        }
+
+        private void btn_sport_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_notee_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_accont_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ستتوفر قريباً");
         }
     }
 }
