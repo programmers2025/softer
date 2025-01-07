@@ -279,6 +279,7 @@ C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.c
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.exe
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.pdb
+<<<<<<< HEAD
 C:\Users\ASUS rog\Desktop\git\softer\softer\softer\bin\Debug\softer.exe.config
 C:\Users\ASUS rog\Desktop\git\softer\softer\softer\bin\Debug\softer.exe
 C:\Users\ASUS rog\Desktop\git\softer\softer\softer\bin\Debug\softer.pdb
@@ -307,3 +308,5 @@ C:\Users\acer\Desktop\New folder\softer\softer\softer\obj\Debug\softer.csproj.Co
 C:\Users\acer\Desktop\New folder\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\acer\Desktop\New folder\softer\softer\softer\obj\Debug\softer.exe
 C:\Users\acer\Desktop\New folder\softer\softer\softer\obj\Debug\softer.pdb
+=======
+>>>>>>> main
