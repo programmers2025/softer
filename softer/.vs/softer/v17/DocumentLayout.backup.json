@@ -57,7 +57,11 @@
               "RelativeDocumentMoniker": "softer\\home.Designer.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\home.Designer.cs",
               "RelativeToolTip": "softer\\home.Designer.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAADYAAAAAAAAAAAAMwEcAAAARAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T11:46:34.351Z"
             },
@@ -74,11 +78,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
               "DocumentIndex": 3,
-=======
-              "DocumentIndex": 2,
->>>>>>> Stashed changes
               "Title": "tableg.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\softer\\softer\\softer\\tableg.cs",
               "RelativeDocumentMoniker": "softer\\tableg.cs",
