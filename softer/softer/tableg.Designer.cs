@@ -7327,7 +7327,7 @@
             this.btnnext.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnnext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnnext.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold);
-            this.btnnext.Location = new System.Drawing.Point(20, 798);
+            this.btnnext.Location = new System.Drawing.Point(20, 792);
             this.btnnext.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnnext.Name = "btnnext";
             this.btnnext.Size = new System.Drawing.Size(316, 90);
