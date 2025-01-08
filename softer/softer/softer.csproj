@@ -248,6 +248,42 @@
   <ItemGroup>
     <None Include="Resources\interface.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skills1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn-down1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team-performance1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brightness-and-contrast %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skills2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\integrity %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\بببسسسش-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\اضافةففففففففف-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\مراحل_القبول-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\integrity %282%291.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
