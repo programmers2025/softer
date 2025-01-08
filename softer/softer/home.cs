@@ -46,15 +46,16 @@ namespace softer
 
         private void btnaksam_Click(object sender, EventArgs e)
         {
+
             if (flomenu.Width == 50)
             {
             }
             else if (flomenu.Width > 50)
             {
-                if (depsidebar.Width == 0 || settingsidebar.Width == 262)
+                if (depsidebar.Width == 0 || sittingsidebar.Width == 290)
                 {
-                    settingsidebar.Width = 0;
-                    depsidebar.Width = 262;
+                    //sittingsidebar.Width = 0;
+                    depsidebar.Width = 290;
 
                 }
                 else
@@ -67,20 +68,23 @@ namespace softer
 
         private void btnsetting_Click(object sender, EventArgs e)
         {
+
             if (flomenu.Width == 50)
             {
             }
-            else if (flomenu.Width > 50)
+            else
             {
-                if (settingsidebar.Width == 0 || depsidebar.Width == 225)
+                if (sittingsidebar.Height == 0)
                 {
-                    depsidebar.Width = 0;
-                    paneltableg.Visible = false;
-                    settingsidebar.Width = 116;
+                    sittingsidebar.Height = 265;
+
+
+
                 }
                 else
                 {
-                    settingsidebar.Width = 0;
+                    sittingsidebar.Height = 0;
+
                 }
             }
         }

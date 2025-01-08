@@ -67,6 +67,13 @@
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.form_panel = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.sittingsidebar = new System.Windows.Forms.Panel();
+            this.btn_accont = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.headpanal.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnmin)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnclose)).BeginInit();
@@ -77,6 +84,7 @@
             this.paneltableg.SuspendLayout();
             this.form_panel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.sittingsidebar.SuspendLayout();
             this.SuspendLayout();
             // 
             // headpanal
@@ -287,7 +295,7 @@
             this.button1.ForeColor = System.Drawing.Color.Moccasin;
             this.button1.Image = global::softer.Properties.Resources.instructions;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(196, 615);
+            this.button1.Location = new System.Drawing.Point(218, 615);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(189, 97);
@@ -306,10 +314,10 @@
             this.btnatsalat.ForeColor = System.Drawing.Color.Moccasin;
             this.btnatsalat.Image = global::softer.Properties.Resources.signal;
             this.btnatsalat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnatsalat.Location = new System.Drawing.Point(-14, 514);
+            this.btnatsalat.Location = new System.Drawing.Point(4, 516);
             this.btnatsalat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnatsalat.Name = "btnatsalat";
-            this.btnatsalat.Size = new System.Drawing.Size(207, 97);
+            this.btnatsalat.Size = new System.Drawing.Size(210, 97);
             this.btnatsalat.TabIndex = 13;
             this.btnatsalat.Text = "قسم الاتصالات و نظم المعلومات";
             this.btnatsalat.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -325,7 +333,7 @@
             this.btnamn.ForeColor = System.Drawing.Color.Moccasin;
             this.btnamn.Image = global::softer.Properties.Resources.policeman;
             this.btnamn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnamn.Location = new System.Drawing.Point(196, 514);
+            this.btnamn.Location = new System.Drawing.Point(218, 514);
             this.btnamn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnamn.Name = "btnamn";
             this.btnamn.Size = new System.Drawing.Size(189, 97);
@@ -344,10 +352,10 @@
             this.btnkuran.ForeColor = System.Drawing.Color.Moccasin;
             this.btnkuran.Image = global::softer.Properties.Resources.book;
             this.btnkuran.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnkuran.Location = new System.Drawing.Point(4, 412);
+            this.btnkuran.Location = new System.Drawing.Point(2, 412);
             this.btnkuran.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnkuran.Name = "btnkuran";
-            this.btnkuran.Size = new System.Drawing.Size(189, 97);
+            this.btnkuran.Size = new System.Drawing.Size(210, 97);
             this.btnkuran.TabIndex = 11;
             this.btnkuran.Text = "دار القران\r\n الكريم";
             this.btnkuran.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -363,7 +371,7 @@
             this.btndrasat.ForeColor = System.Drawing.Color.Moccasin;
             this.btndrasat.Image = global::softer.Properties.Resources.people__1_;
             this.btndrasat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btndrasat.Location = new System.Drawing.Point(196, 412);
+            this.btndrasat.Location = new System.Drawing.Point(215, 412);
             this.btndrasat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btndrasat.Name = "btndrasat";
             this.btndrasat.Size = new System.Drawing.Size(195, 97);
@@ -382,12 +390,12 @@
             this.btntalim.ForeColor = System.Drawing.Color.Moccasin;
             this.btntalim.Image = global::softer.Properties.Resources.studying;
             this.btntalim.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntalim.Location = new System.Drawing.Point(4, 309);
+            this.btntalim.Location = new System.Drawing.Point(2, 309);
             this.btntalim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntalim.Name = "btntalim";
-            this.btntalim.Size = new System.Drawing.Size(189, 97);
+            this.btntalim.Size = new System.Drawing.Size(210, 97);
             this.btntalim.TabIndex = 9;
-            this.btntalim.Text = "قسم التعليم الديني";
+            this.btntalim.Text = "قسم التعليم\r\n الديني";
             this.btntalim.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btntalim.UseVisualStyleBackColor = false;
             // 
@@ -401,7 +409,7 @@
             this.btnelim.ForeColor = System.Drawing.Color.Moccasin;
             this.btnelim.Image = global::softer.Properties.Resources.video;
             this.btnelim.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnelim.Location = new System.Drawing.Point(200, 309);
+            this.btnelim.Location = new System.Drawing.Point(218, 309);
             this.btnelim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnelim.Name = "btnelim";
             this.btnelim.Size = new System.Drawing.Size(189, 97);
@@ -420,10 +428,10 @@
             this.btntableg.ForeColor = System.Drawing.Color.Moccasin;
             this.btntableg.Image = global::softer.Properties.Resources.turban__1_;
             this.btntableg.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntableg.Location = new System.Drawing.Point(4, 208);
+            this.btntableg.Location = new System.Drawing.Point(2, 208);
             this.btntableg.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntableg.Name = "btntableg";
-            this.btntableg.Size = new System.Drawing.Size(189, 97);
+            this.btntableg.Size = new System.Drawing.Size(210, 97);
             this.btntableg.TabIndex = 7;
             this.btntableg.Text = "قسم التبليغ";
             this.btntableg.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -440,7 +448,7 @@
             this.btntadkek.ForeColor = System.Drawing.Color.Moccasin;
             this.btntadkek.Image = global::softer.Properties.Resources.checklist;
             this.btntadkek.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntadkek.Location = new System.Drawing.Point(200, 208);
+            this.btntadkek.Location = new System.Drawing.Point(218, 208);
             this.btntadkek.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntadkek.Name = "btntadkek";
             this.btntadkek.Size = new System.Drawing.Size(189, 97);
@@ -459,10 +467,10 @@
             this.btntakhtet.ForeColor = System.Drawing.Color.Moccasin;
             this.btntakhtet.Image = global::softer.Properties.Resources.project_management;
             this.btntakhtet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntakhtet.Location = new System.Drawing.Point(4, 106);
+            this.btntakhtet.Location = new System.Drawing.Point(2, 106);
             this.btntakhtet.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntakhtet.Name = "btntakhtet";
-            this.btntakhtet.Size = new System.Drawing.Size(189, 97);
+            this.btntakhtet.Size = new System.Drawing.Size(210, 97);
             this.btntakhtet.TabIndex = 5;
             this.btntakhtet.Text = "قسم التخطيط\r\n و الموازنة       ";
             this.btntakhtet.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -478,7 +486,7 @@
             this.btntdreb.ForeColor = System.Drawing.Color.Moccasin;
             this.btntdreb.Image = global::softer.Properties.Resources.training;
             this.btntdreb.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntdreb.Location = new System.Drawing.Point(200, 106);
+            this.btntdreb.Location = new System.Drawing.Point(218, 106);
             this.btntdreb.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntdreb.Name = "btntdreb";
             this.btntdreb.Size = new System.Drawing.Size(189, 97);
@@ -497,10 +505,10 @@
             this.btnmalia.ForeColor = System.Drawing.Color.Moccasin;
             this.btnmalia.Image = global::softer.Properties.Resources.business_and_finance;
             this.btnmalia.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnmalia.Location = new System.Drawing.Point(4, 5);
+            this.btnmalia.Location = new System.Drawing.Point(2, 5);
             this.btnmalia.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnmalia.Name = "btnmalia";
-            this.btnmalia.Size = new System.Drawing.Size(189, 97);
+            this.btnmalia.Size = new System.Drawing.Size(210, 97);
             this.btnmalia.TabIndex = 3;
             this.btnmalia.Text = "  قسم المالية";
             this.btnmalia.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -516,7 +524,7 @@
             this.btnadara.ForeColor = System.Drawing.Color.Moccasin;
             this.btnadara.Image = global::softer.Properties.Resources.communication__1_1;
             this.btnadara.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnadara.Location = new System.Drawing.Point(200, 5);
+            this.btnadara.Location = new System.Drawing.Point(218, 5);
             this.btnadara.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnadara.Name = "btnadara";
             this.btnadara.Size = new System.Drawing.Size(189, 97);
@@ -532,6 +540,7 @@
             this.flomenu.Controls.Add(this.btnedara);
             this.flomenu.Controls.Add(this.btnaksam);
             this.flomenu.Controls.Add(this.btnsetting);
+            this.flomenu.Controls.Add(this.sittingsidebar);
             this.flomenu.Dock = System.Windows.Forms.DockStyle.Right;
             this.flomenu.Location = new System.Drawing.Point(1765, 69);
             this.flomenu.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -703,6 +712,128 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // sittingsidebar
+            // 
+            this.sittingsidebar.BackColor = System.Drawing.Color.DimGray;
+            this.sittingsidebar.Controls.Add(this.btn_accont);
+            this.sittingsidebar.Controls.Add(this.button2);
+            this.sittingsidebar.Controls.Add(this.button3);
+            this.sittingsidebar.Controls.Add(this.button4);
+            this.sittingsidebar.Controls.Add(this.button5);
+            this.sittingsidebar.Controls.Add(this.button6);
+            this.sittingsidebar.Location = new System.Drawing.Point(3, 295);
+            this.sittingsidebar.Name = "sittingsidebar";
+            this.sittingsidebar.Size = new System.Drawing.Size(276, 0);
+            this.sittingsidebar.TabIndex = 39;
+            // 
+            // btn_accont
+            // 
+            this.btn_accont.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_accont.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_accont.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_accont.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_accont.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_accont.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_accont.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_accont.Location = new System.Drawing.Point(4, 338);
+            this.btn_accont.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_accont.Name = "btn_accont";
+            this.btn_accont.Size = new System.Drawing.Size(266, 63);
+            this.btn_accont.TabIndex = 7;
+            this.btn_accont.Text = "اعدادات الحساب";
+            this.btn_accont.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_accont.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.button2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(4, 270);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(266, 63);
+            this.button2.TabIndex = 6;
+            this.button2.Text = "النسخة والتحديثات";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button2.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.button3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(4, 0);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(266, 63);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "الوقت والتاريخ";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button3.UseVisualStyleBackColor = false;
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.button4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button4.Location = new System.Drawing.Point(4, 202);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(266, 63);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "الاداء";
+            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button4.UseVisualStyleBackColor = false;
+            // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.button5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button5.Location = new System.Drawing.Point(3, 68);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(266, 63);
+            this.button5.TabIndex = 5;
+            this.button5.Text = "الوضع الداكن";
+            this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button5.UseVisualStyleBackColor = false;
+            // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button6.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.button6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button6.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button6.Location = new System.Drawing.Point(3, 135);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(266, 63);
+            this.button6.TabIndex = 2;
+            this.button6.Text = "حول البرنامج";
+            this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button6.UseVisualStyleBackColor = false;
+            // 
             // home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -732,6 +863,7 @@
             this.paneltableg.ResumeLayout(false);
             this.form_panel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.sittingsidebar.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -775,6 +907,13 @@
         private System.Windows.Forms.Label labhekma;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Panel sittingsidebar;
+        private System.Windows.Forms.Button btn_accont;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
     }
 }
 
