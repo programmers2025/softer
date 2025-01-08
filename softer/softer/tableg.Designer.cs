@@ -1034,10 +1034,7 @@
             this.dataGrid_asfar.Name = "dataGrid_asfar";
             this.dataGrid_asfar.ReadOnly = true;
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.Empty;
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Silver;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataGrid_asfar.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dataGrid_asfar.RowHeadersVisible = false;
@@ -1583,10 +1580,7 @@
             this.dataView_out.Name = "dataView_out";
             this.dataView_out.ReadOnly = true;
             dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.Color.Empty;
-            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.Silver;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataView_out.RowHeadersDefaultCellStyle = dataGridViewCellStyle7;
             this.dataView_out.RowHeadersVisible = false;
@@ -2078,10 +2072,7 @@
             this.dataView_tech_alia.Name = "dataView_tech_alia";
             this.dataView_tech_alia.ReadOnly = true;
             dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle11.BackColor = System.Drawing.Color.Empty;
-            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.Silver;
-            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataView_tech_alia.RowHeadersDefaultCellStyle = dataGridViewCellStyle11;
             this.dataView_tech_alia.RowHeadersVisible = false;
@@ -2213,10 +2204,7 @@
             this.dataView_book_alia.Name = "dataView_book_alia";
             this.dataView_book_alia.ReadOnly = true;
             dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = System.Drawing.Color.Empty;
-            dataGridViewCellStyle15.ForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle15.SelectionBackColor = System.Drawing.Color.Silver;
-            dataGridViewCellStyle15.SelectionForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataView_book_alia.RowHeadersDefaultCellStyle = dataGridViewCellStyle15;
             this.dataView_book_alia.RowHeadersVisible = false;
