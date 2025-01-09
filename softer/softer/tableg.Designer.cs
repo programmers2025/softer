@@ -750,11 +750,11 @@
             this.Form_astqtab9.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab9.Name = "Form_astqtab9";
             this.Form_astqtab9.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-<<<<<<< HEAD
+
             this.Form_astqtab9.Size = new System.Drawing.Size(810, 987);
-=======
+
             this.Form_astqtab9.Size = new System.Drawing.Size(407, 987);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.Form_astqtab9.TabIndex = 8;
             this.Form_astqtab9.Text = "ملاحظات";
             // 
@@ -766,11 +766,11 @@
             this.Form_astqtab8.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab8.Name = "Form_astqtab8";
             this.Form_astqtab8.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-<<<<<<< HEAD
+
             this.Form_astqtab8.Size = new System.Drawing.Size(810, 987);
-=======
+
             this.Form_astqtab8.Size = new System.Drawing.Size(407, 987);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.Form_astqtab8.TabIndex = 7;
             this.Form_astqtab8.Text = "تدقيق";
             // 
@@ -3250,11 +3250,11 @@
             this.Form_astqtab3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab3.Name = "Form_astqtab3";
             this.Form_astqtab3.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-<<<<<<< HEAD
+
             this.Form_astqtab3.Size = new System.Drawing.Size(810, 987);
-=======
+
             this.Form_astqtab3.Size = new System.Drawing.Size(407, 987);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.Form_astqtab3.TabIndex = 2;
             this.Form_astqtab3.Text = "مرحلة المقدمات";
             this.Form_astqtab3.UseVisualStyleBackColor = true;
@@ -3281,11 +3281,11 @@
             this.panelmoq.Location = new System.Drawing.Point(4, 5);
             this.panelmoq.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelmoq.Name = "panelmoq";
-<<<<<<< HEAD
+
             this.panelmoq.Size = new System.Drawing.Size(802, 977);
-=======
+
             this.panelmoq.Size = new System.Drawing.Size(399, 977);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.panelmoq.TabIndex = 60;
             // 
             // transfer
@@ -4023,11 +4023,11 @@
             this.Form_astqtab2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Form_astqtab2.Name = "Form_astqtab2";
             this.Form_astqtab2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-<<<<<<< HEAD
+
             this.Form_astqtab2.Size = new System.Drawing.Size(810, 987);
-=======
+
             this.Form_astqtab2.Size = new System.Drawing.Size(407, 987);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.Form_astqtab2.TabIndex = 1;
             this.Form_astqtab2.Text = "الصفحة الثانية";
             this.Form_astqtab2.UseVisualStyleBackColor = true;
@@ -4046,11 +4046,11 @@
             this.paneltableg3.Location = new System.Drawing.Point(4, 5);
             this.paneltableg3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.paneltableg3.Name = "paneltableg3";
-<<<<<<< HEAD
+
             this.paneltableg3.Size = new System.Drawing.Size(802, 977);
-=======
+
             this.paneltableg3.Size = new System.Drawing.Size(399, 977);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.paneltableg3.TabIndex = 2;
             // 
             // panelbut
@@ -5276,11 +5276,11 @@
             this.panelwtha.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelwtha.Name = "panelwtha";
             this.panelwtha.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-<<<<<<< HEAD
+
             this.panelwtha.Size = new System.Drawing.Size(10627, 115);
-=======
+
             this.panelwtha.Size = new System.Drawing.Size(9216, 115);
->>>>>>> b6597271bd7b718d7fab10606decd16f4019fd15
+
             this.panelwtha.TabIndex = 44;
             // 
             // btnblas2
