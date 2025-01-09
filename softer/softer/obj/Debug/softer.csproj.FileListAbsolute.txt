@@ -279,3 +279,4 @@ C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.c
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.exe
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.pdb
+C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.accept.resources
