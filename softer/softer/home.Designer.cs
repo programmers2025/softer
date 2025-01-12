@@ -31,19 +31,17 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(home));
             this.headpanal = new System.Windows.Forms.Panel();
-            this.btnmin = new Bunifu.Framework.UI.BunifuImageButton();
-            this.btnclose = new Bunifu.Framework.UI.BunifuImageButton();
             this.labadmin = new System.Windows.Forms.Label();
             this.hekmapanal = new System.Windows.Forms.Panel();
             this.labhekma = new System.Windows.Forms.Label();
-            this.btn_aaa = new System.Windows.Forms.Button();
-            this.settingsidebar = new System.Windows.Forms.Panel();
-            this.btn_aaaaa = new System.Windows.Forms.Button();
-            this.btn_a = new System.Windows.Forms.Button();
-            this.btn_aaaa = new System.Windows.Forms.Button();
-            this.btn_aa = new System.Windows.Forms.Button();
             this.depsidebar = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.flomenu = new System.Windows.Forms.FlowLayoutPanel();
+            this.sittingsidebar = new System.Windows.Forms.Panel();
+            this.paneltableg = new System.Windows.Forms.Panel();
+            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
+            this.form_panel = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btn_sysai = new System.Windows.Forms.Button();
             this.btnatsalat = new System.Windows.Forms.Button();
             this.btnamn = new System.Windows.Forms.Button();
             this.btnkuran = new System.Windows.Forms.Button();
@@ -56,35 +54,32 @@
             this.btntdreb = new System.Windows.Forms.Button();
             this.btnmalia = new System.Windows.Forms.Button();
             this.btnadara = new System.Windows.Forms.Button();
-            this.flomenu = new System.Windows.Forms.FlowLayoutPanel();
             this.btn_slide_main = new System.Windows.Forms.Button();
             this.btnedara = new System.Windows.Forms.Button();
             this.btnaksam = new System.Windows.Forms.Button();
+            this.btn_support = new System.Windows.Forms.Button();
+            this.btn_notee = new System.Windows.Forms.Button();
             this.btnsetting = new System.Windows.Forms.Button();
-            this.paneltableg = new System.Windows.Forms.Panel();
+            this.btn_accont = new System.Windows.Forms.Button();
+            this.btn_backup = new System.Windows.Forms.Button();
+            this.btn_settingp = new System.Windows.Forms.Button();
+            this.btn_perform = new System.Windows.Forms.Button();
+            this.btn_dark = new System.Windows.Forms.Button();
+            this.btn_aboutproj = new System.Windows.Forms.Button();
+            this.btnmin = new Bunifu.Framework.UI.BunifuImageButton();
+            this.btnclose = new Bunifu.Framework.UI.BunifuImageButton();
             this.btntatwer = new System.Windows.Forms.Button();
             this.btnastqtab = new System.Windows.Forms.Button();
-            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
-            this.form_panel = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.sittingsidebar = new System.Windows.Forms.Panel();
-            this.btn_accont = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             this.headpanal.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.btnmin)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btnclose)).BeginInit();
             this.hekmapanal.SuspendLayout();
-            this.settingsidebar.SuspendLayout();
             this.depsidebar.SuspendLayout();
             this.flomenu.SuspendLayout();
+            this.sittingsidebar.SuspendLayout();
             this.paneltableg.SuspendLayout();
             this.form_panel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.sittingsidebar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.btnmin)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnclose)).BeginInit();
             this.SuspendLayout();
             // 
             // headpanal
@@ -100,37 +95,6 @@
             this.headpanal.Name = "headpanal";
             this.headpanal.Size = new System.Drawing.Size(2025, 69);
             this.headpanal.TabIndex = 38;
-            // 
-            // btnmin
-            // 
-            this.btnmin.BackColor = System.Drawing.Color.Transparent;
-            this.btnmin.Image = ((System.Drawing.Image)(resources.GetObject("btnmin.Image")));
-            this.btnmin.ImageActive = null;
-            this.btnmin.Location = new System.Drawing.Point(84, 11);
-            this.btnmin.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnmin.Name = "btnmin";
-            this.btnmin.Size = new System.Drawing.Size(32, 32);
-            this.btnmin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.btnmin.TabIndex = 29;
-            this.btnmin.TabStop = false;
-            this.btnmin.Zoom = 10;
-            this.btnmin.Click += new System.EventHandler(this.btnmin_Click);
-            // 
-            // btnclose
-            // 
-            this.btnclose.BackColor = System.Drawing.Color.Transparent;
-            this.btnclose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.btnclose.Image = ((System.Drawing.Image)(resources.GetObject("btnclose.Image")));
-            this.btnclose.ImageActive = null;
-            this.btnclose.Location = new System.Drawing.Point(10, 9);
-            this.btnclose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnclose.Name = "btnclose";
-            this.btnclose.Size = new System.Drawing.Size(64, 51);
-            this.btnclose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.btnclose.TabIndex = 28;
-            this.btnclose.TabStop = false;
-            this.btnclose.Zoom = 10;
-            this.btnclose.Click += new System.EventHandler(this.btnclose_Click);
             // 
             // labadmin
             // 
@@ -167,105 +131,10 @@
             this.labhekma.TabIndex = 0;
             this.labhekma.Text = "ومن يتق الله يجعل له مخرجا";
             // 
-            // btn_aaa
-            // 
-            this.btn_aaa.BackColor = System.Drawing.Color.Gray;
-            this.btn_aaa.FlatAppearance.BorderSize = 0;
-            this.btn_aaa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(90)))));
-            this.btn_aaa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_aaa.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_aaa.ForeColor = System.Drawing.Color.Black;
-            this.btn_aaa.Location = new System.Drawing.Point(4, 254);
-            this.btn_aaa.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_aaa.Name = "btn_aaa";
-            this.btn_aaa.Size = new System.Drawing.Size(164, 117);
-            this.btn_aaa.TabIndex = 2;
-            this.btn_aaa.Text = "حول البرنامج";
-            this.btn_aaa.UseVisualStyleBackColor = false;
-            // 
-            // settingsidebar
-            // 
-            this.settingsidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.settingsidebar.Controls.Add(this.btn_aaaaa);
-            this.settingsidebar.Controls.Add(this.btn_a);
-            this.settingsidebar.Controls.Add(this.btn_aaaa);
-            this.settingsidebar.Controls.Add(this.btn_aa);
-            this.settingsidebar.Controls.Add(this.btn_aaa);
-            this.settingsidebar.Dock = System.Windows.Forms.DockStyle.Right;
-            this.settingsidebar.Location = new System.Drawing.Point(1765, 69);
-            this.settingsidebar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.settingsidebar.Name = "settingsidebar";
-            this.settingsidebar.Size = new System.Drawing.Size(0, 1054);
-            this.settingsidebar.TabIndex = 42;
-            // 
-            // btn_aaaaa
-            // 
-            this.btn_aaaaa.BackColor = System.Drawing.Color.Gray;
-            this.btn_aaaaa.FlatAppearance.BorderSize = 0;
-            this.btn_aaaaa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(90)))));
-            this.btn_aaaaa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_aaaaa.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_aaaaa.ForeColor = System.Drawing.Color.Black;
-            this.btn_aaaaa.Location = new System.Drawing.Point(4, 506);
-            this.btn_aaaaa.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_aaaaa.Name = "btn_aaaaa";
-            this.btn_aaaaa.Size = new System.Drawing.Size(164, 117);
-            this.btn_aaaaa.TabIndex = 6;
-            this.btn_aaaaa.Text = "النسخة والتحديثات";
-            this.btn_aaaaa.UseVisualStyleBackColor = false;
-            // 
-            // btn_a
-            // 
-            this.btn_a.BackColor = System.Drawing.Color.Gray;
-            this.btn_a.FlatAppearance.BorderSize = 0;
-            this.btn_a.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(90)))));
-            this.btn_a.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_a.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_a.ForeColor = System.Drawing.Color.Black;
-            this.btn_a.Location = new System.Drawing.Point(4, 131);
-            this.btn_a.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_a.Name = "btn_a";
-            this.btn_a.Size = new System.Drawing.Size(164, 117);
-            this.btn_a.TabIndex = 5;
-            this.btn_a.Text = "الوضع الداكن";
-            this.btn_a.UseVisualStyleBackColor = false;
-            // 
-            // btn_aaaa
-            // 
-            this.btn_aaaa.BackColor = System.Drawing.Color.Gray;
-            this.btn_aaaa.FlatAppearance.BorderSize = 0;
-            this.btn_aaaa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(90)))));
-            this.btn_aaaa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_aaaa.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_aaaa.ForeColor = System.Drawing.Color.Black;
-            this.btn_aaaa.Location = new System.Drawing.Point(4, 380);
-            this.btn_aaaa.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_aaaa.Name = "btn_aaaa";
-            this.btn_aaaa.Size = new System.Drawing.Size(164, 117);
-            this.btn_aaaa.TabIndex = 4;
-            this.btn_aaaa.Text = "الاداء";
-            this.btn_aaaa.UseVisualStyleBackColor = false;
-            // 
-            // btn_aa
-            // 
-            this.btn_aa.BackColor = System.Drawing.Color.Gray;
-            this.btn_aa.FlatAppearance.BorderSize = 0;
-            this.btn_aa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(90)))));
-            this.btn_aa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_aa.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_aa.ForeColor = System.Drawing.Color.Black;
-            this.btn_aa.Location = new System.Drawing.Point(4, 5);
-            this.btn_aa.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_aa.Name = "btn_aa";
-            this.btn_aa.Size = new System.Drawing.Size(164, 117);
-            this.btn_aa.TabIndex = 3;
-            this.btn_aa.Text = "الاعدادات العامة";
-            this.btn_aa.UseVisualStyleBackColor = false;
-            // 
             // depsidebar
             // 
             this.depsidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.depsidebar.Controls.Add(this.button1);
+            this.depsidebar.Controls.Add(this.btn_sysai);
             this.depsidebar.Controls.Add(this.btnatsalat);
             this.depsidebar.Controls.Add(this.btnamn);
             this.depsidebar.Controls.Add(this.btnkuran);
@@ -279,30 +148,102 @@
             this.depsidebar.Controls.Add(this.btnmalia);
             this.depsidebar.Controls.Add(this.btnadara);
             this.depsidebar.Dock = System.Windows.Forms.DockStyle.Right;
-            this.depsidebar.Location = new System.Drawing.Point(1765, 69);
+            this.depsidebar.Location = new System.Drawing.Point(1746, 69);
             this.depsidebar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.depsidebar.Name = "depsidebar";
             this.depsidebar.Size = new System.Drawing.Size(0, 1054);
             this.depsidebar.TabIndex = 41;
             // 
-            // button1
+            // flomenu
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.Moccasin;
-            this.button1.Image = global::softer.Properties.Resources.instructions;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(218, 615);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(189, 97);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "قسم التوعية السياية";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.UseVisualStyleBackColor = false;
+            this.flomenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.flomenu.Controls.Add(this.btn_slide_main);
+            this.flomenu.Controls.Add(this.btnedara);
+            this.flomenu.Controls.Add(this.btnaksam);
+            this.flomenu.Controls.Add(this.btn_support);
+            this.flomenu.Controls.Add(this.btn_notee);
+            this.flomenu.Controls.Add(this.btnsetting);
+            this.flomenu.Controls.Add(this.sittingsidebar);
+            this.flomenu.Dock = System.Windows.Forms.DockStyle.Right;
+            this.flomenu.Location = new System.Drawing.Point(1746, 69);
+            this.flomenu.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.flomenu.Name = "flomenu";
+            this.flomenu.Size = new System.Drawing.Size(279, 1054);
+            this.flomenu.TabIndex = 40;
+            // 
+            // sittingsidebar
+            // 
+            this.sittingsidebar.BackColor = System.Drawing.Color.DimGray;
+            this.sittingsidebar.Controls.Add(this.btn_accont);
+            this.sittingsidebar.Controls.Add(this.btn_backup);
+            this.sittingsidebar.Controls.Add(this.btn_settingp);
+            this.sittingsidebar.Controls.Add(this.btn_perform);
+            this.sittingsidebar.Controls.Add(this.btn_dark);
+            this.sittingsidebar.Controls.Add(this.btn_aboutproj);
+            this.sittingsidebar.Location = new System.Drawing.Point(3, 441);
+            this.sittingsidebar.Name = "sittingsidebar";
+            this.sittingsidebar.Size = new System.Drawing.Size(276, 0);
+            this.sittingsidebar.TabIndex = 39;
+            // 
+            // paneltableg
+            // 
+            this.paneltableg.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.paneltableg.Controls.Add(this.btntatwer);
+            this.paneltableg.Controls.Add(this.btnastqtab);
+            this.paneltableg.Location = new System.Drawing.Point(1024, 325);
+            this.paneltableg.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.paneltableg.Name = "paneltableg";
+            this.paneltableg.Size = new System.Drawing.Size(304, 125);
+            this.paneltableg.TabIndex = 43;
+            this.paneltableg.Visible = false;
+            // 
+            // bunifuElipse1
+            // 
+            this.bunifuElipse1.ElipseRadius = 25;
+            this.bunifuElipse1.TargetControl = this;
+            // 
+            // form_panel
+            // 
+            this.form_panel.BackColor = System.Drawing.Color.Silver;
+            this.form_panel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("form_panel.BackgroundImage")));
+            this.form_panel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.form_panel.Controls.Add(this.pictureBox1);
+            this.form_panel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.form_panel.Location = new System.Drawing.Point(0, 69);
+            this.form_panel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.form_panel.Name = "form_panel";
+            this.form_panel.Size = new System.Drawing.Size(1746, 1054);
+            this.form_panel.TabIndex = 44;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(0, 839);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1746, 215);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btn_sysai
+            // 
+            this.btn_sysai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_sysai.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btn_sysai.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btn_sysai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_sysai.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_sysai.ForeColor = System.Drawing.Color.Moccasin;
+            this.btn_sysai.Image = global::softer.Properties.Resources.instructions;
+            this.btn_sysai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_sysai.Location = new System.Drawing.Point(218, 615);
+            this.btn_sysai.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_sysai.Name = "btn_sysai";
+            this.btn_sysai.Size = new System.Drawing.Size(189, 97);
+            this.btn_sysai.TabIndex = 14;
+            this.btn_sysai.Text = "قسم التوعية السياية";
+            this.btn_sysai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_sysai.UseVisualStyleBackColor = false;
             // 
             // btnatsalat
             // 
@@ -313,7 +254,7 @@
             this.btnatsalat.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnatsalat.ForeColor = System.Drawing.Color.Moccasin;
             this.btnatsalat.Image = global::softer.Properties.Resources.signal;
-            this.btnatsalat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnatsalat.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnatsalat.Location = new System.Drawing.Point(4, 516);
             this.btnatsalat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnatsalat.Name = "btnatsalat";
@@ -533,21 +474,6 @@
             this.btnadara.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnadara.UseVisualStyleBackColor = false;
             // 
-            // flomenu
-            // 
-            this.flomenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.flomenu.Controls.Add(this.btn_slide_main);
-            this.flomenu.Controls.Add(this.btnedara);
-            this.flomenu.Controls.Add(this.btnaksam);
-            this.flomenu.Controls.Add(this.btnsetting);
-            this.flomenu.Controls.Add(this.sittingsidebar);
-            this.flomenu.Dock = System.Windows.Forms.DockStyle.Right;
-            this.flomenu.Location = new System.Drawing.Point(1765, 69);
-            this.flomenu.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.flomenu.Name = "flomenu";
-            this.flomenu.Size = new System.Drawing.Size(260, 1054);
-            this.flomenu.TabIndex = 40;
-            // 
             // btn_slide_main
             // 
             this.btn_slide_main.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
@@ -611,6 +537,48 @@
             this.btnaksam.UseVisualStyleBackColor = false;
             this.btnaksam.Click += new System.EventHandler(this.btnaksam_Click);
             // 
+            // btn_support
+            // 
+            this.btn_support.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_support.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_support.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btn_support.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_support.Font = new System.Drawing.Font("Tahoma", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_support.ForeColor = System.Drawing.Color.Moccasin;
+            this.btn_support.Image = global::softer.Properties.Resources.skills1;
+            this.btn_support.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_support.Location = new System.Drawing.Point(4, 224);
+            this.btn_support.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_support.Name = "btn_support";
+            this.btn_support.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_support.Size = new System.Drawing.Size(266, 63);
+            this.btn_support.TabIndex = 41;
+            this.btn_support.Text = "الدعم الفني";
+            this.btn_support.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_support.UseVisualStyleBackColor = false;
+            this.btn_support.Click += new System.EventHandler(this.btn_sport_Click);
+            // 
+            // btn_notee
+            // 
+            this.btn_notee.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_notee.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_notee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btn_notee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_notee.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_notee.ForeColor = System.Drawing.Color.Moccasin;
+            this.btn_notee.Image = global::softer.Properties.Resources.integrity__2_;
+            this.btn_notee.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_notee.Location = new System.Drawing.Point(4, 297);
+            this.btn_notee.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_notee.Name = "btn_notee";
+            this.btn_notee.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_notee.Size = new System.Drawing.Size(266, 63);
+            this.btn_notee.TabIndex = 42;
+            this.btn_notee.Text = "ملاحظات التطوير";
+            this.btn_notee.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_notee.UseVisualStyleBackColor = false;
+            this.btn_notee.Click += new System.EventHandler(this.btn_notee_Click);
+            // 
             // btnsetting
             // 
             this.btnsetting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
@@ -621,7 +589,7 @@
             this.btnsetting.ForeColor = System.Drawing.Color.Moccasin;
             this.btnsetting.Image = global::softer.Properties.Resources.gear;
             this.btnsetting.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnsetting.Location = new System.Drawing.Point(4, 224);
+            this.btnsetting.Location = new System.Drawing.Point(4, 370);
             this.btnsetting.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnsetting.Name = "btnsetting";
             this.btnsetting.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -632,17 +600,156 @@
             this.btnsetting.UseVisualStyleBackColor = false;
             this.btnsetting.Click += new System.EventHandler(this.btnsetting_Click);
             // 
-            // paneltableg
+            // btn_accont
             // 
-            this.paneltableg.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.paneltableg.Controls.Add(this.btntatwer);
-            this.paneltableg.Controls.Add(this.btnastqtab);
-            this.paneltableg.Location = new System.Drawing.Point(1070, 325);
-            this.paneltableg.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.paneltableg.Name = "paneltableg";
-            this.paneltableg.Size = new System.Drawing.Size(304, 125);
-            this.paneltableg.TabIndex = 43;
-            this.paneltableg.Visible = false;
+            this.btn_accont.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_accont.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_accont.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_accont.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_accont.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_accont.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_accont.Image = global::softer.Properties.Resources.skills;
+            this.btn_accont.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_accont.Location = new System.Drawing.Point(4, 338);
+            this.btn_accont.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_accont.Name = "btn_accont";
+            this.btn_accont.Size = new System.Drawing.Size(266, 63);
+            this.btn_accont.TabIndex = 7;
+            this.btn_accont.Text = "اعدادات الحساب";
+            this.btn_accont.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_accont.UseVisualStyleBackColor = false;
+            this.btn_accont.Click += new System.EventHandler(this.btn_accont_Click);
+            // 
+            // btn_backup
+            // 
+            this.btn_backup.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_backup.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_backup.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_backup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_backup.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_backup.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_backup.Image = global::softer.Properties.Resources.update;
+            this.btn_backup.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_backup.Location = new System.Drawing.Point(4, 270);
+            this.btn_backup.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_backup.Name = "btn_backup";
+            this.btn_backup.Size = new System.Drawing.Size(266, 63);
+            this.btn_backup.TabIndex = 6;
+            this.btn_backup.Text = "النسخة والتحديثات";
+            this.btn_backup.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_backup.UseVisualStyleBackColor = false;
+            this.btn_backup.Click += new System.EventHandler(this.btn_aaaaa_Click);
+            // 
+            // btn_settingp
+            // 
+            this.btn_settingp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_settingp.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_settingp.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_settingp.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_settingp.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_settingp.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_settingp.Image = global::softer.Properties.Resources.system_update;
+            this.btn_settingp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_settingp.Location = new System.Drawing.Point(4, 0);
+            this.btn_settingp.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_settingp.Name = "btn_settingp";
+            this.btn_settingp.Size = new System.Drawing.Size(266, 63);
+            this.btn_settingp.TabIndex = 3;
+            this.btn_settingp.Text = "الاعدادات العامة";
+            this.btn_settingp.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_settingp.UseVisualStyleBackColor = false;
+            this.btn_settingp.Click += new System.EventHandler(this.btn_aa_Click);
+            // 
+            // btn_perform
+            // 
+            this.btn_perform.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_perform.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_perform.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_perform.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_perform.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_perform.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_perform.Image = global::softer.Properties.Resources.team_performance;
+            this.btn_perform.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_perform.Location = new System.Drawing.Point(4, 202);
+            this.btn_perform.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_perform.Name = "btn_perform";
+            this.btn_perform.Size = new System.Drawing.Size(266, 63);
+            this.btn_perform.TabIndex = 4;
+            this.btn_perform.Text = "الاداء";
+            this.btn_perform.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_perform.UseVisualStyleBackColor = false;
+            this.btn_perform.Click += new System.EventHandler(this.btn_aaaa_Click);
+            // 
+            // btn_dark
+            // 
+            this.btn_dark.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_dark.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_dark.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_dark.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_dark.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_dark.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_dark.Image = global::softer.Properties.Resources.brightness_and_contrast__1_;
+            this.btn_dark.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_dark.Location = new System.Drawing.Point(3, 68);
+            this.btn_dark.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_dark.Name = "btn_dark";
+            this.btn_dark.Size = new System.Drawing.Size(266, 63);
+            this.btn_dark.TabIndex = 5;
+            this.btn_dark.Text = "الوضع الداكن";
+            this.btn_dark.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_dark.UseVisualStyleBackColor = false;
+            this.btn_dark.Click += new System.EventHandler(this.btn_a_Click);
+            // 
+            // btn_aboutproj
+            // 
+            this.btn_aboutproj.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_aboutproj.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_aboutproj.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
+            this.btn_aboutproj.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_aboutproj.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_aboutproj.ForeColor = System.Drawing.Color.BlanchedAlmond;
+            this.btn_aboutproj.Image = global::softer.Properties.Resources.turn_down;
+            this.btn_aboutproj.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_aboutproj.Location = new System.Drawing.Point(3, 135);
+            this.btn_aboutproj.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_aboutproj.Name = "btn_aboutproj";
+            this.btn_aboutproj.Size = new System.Drawing.Size(266, 63);
+            this.btn_aboutproj.TabIndex = 2;
+            this.btn_aboutproj.Text = "حول البرنامج";
+            this.btn_aboutproj.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btn_aboutproj.UseVisualStyleBackColor = false;
+            this.btn_aboutproj.Click += new System.EventHandler(this.btn_aaa_Click);
+            // 
+            // btnmin
+            // 
+            this.btnmin.BackColor = System.Drawing.Color.Transparent;
+            this.btnmin.Image = ((System.Drawing.Image)(resources.GetObject("btnmin.Image")));
+            this.btnmin.ImageActive = null;
+            this.btnmin.Location = new System.Drawing.Point(84, 11);
+            this.btnmin.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnmin.Name = "btnmin";
+            this.btnmin.Size = new System.Drawing.Size(32, 32);
+            this.btnmin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.btnmin.TabIndex = 29;
+            this.btnmin.TabStop = false;
+            this.btnmin.Zoom = 10;
+            this.btnmin.Click += new System.EventHandler(this.btnmin_Click);
+            // 
+            // btnclose
+            // 
+            this.btnclose.BackColor = System.Drawing.Color.Transparent;
+            this.btnclose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnclose.Image = ((System.Drawing.Image)(resources.GetObject("btnclose.Image")));
+            this.btnclose.ImageActive = null;
+            this.btnclose.Location = new System.Drawing.Point(10, 9);
+            this.btnclose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnclose.Name = "btnclose";
+            this.btnclose.Size = new System.Drawing.Size(64, 51);
+            this.btnclose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.btnclose.TabIndex = 28;
+            this.btnclose.TabStop = false;
+            this.btnclose.Zoom = 10;
+            this.btnclose.Click += new System.EventHandler(this.btnclose_Click);
             // 
             // btntatwer
             // 
@@ -683,163 +790,11 @@
             this.btnastqtab.UseVisualStyleBackColor = false;
             this.btnastqtab.Click += new System.EventHandler(this.btnastqtab_Click);
             // 
-            // bunifuElipse1
-            // 
-            this.bunifuElipse1.ElipseRadius = 25;
-            this.bunifuElipse1.TargetControl = this;
-            // 
-            // form_panel
-            // 
-            this.form_panel.BackColor = System.Drawing.Color.Silver;
-            this.form_panel.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("form_panel.BackgroundImage")));
-            this.form_panel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.form_panel.Controls.Add(this.pictureBox1);
-            this.form_panel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.form_panel.Location = new System.Drawing.Point(0, 69);
-            this.form_panel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.form_panel.Name = "form_panel";
-            this.form_panel.Size = new System.Drawing.Size(1765, 1054);
-            this.form_panel.TabIndex = 44;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 839);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1765, 215);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // sittingsidebar
-            // 
-            this.sittingsidebar.BackColor = System.Drawing.Color.DimGray;
-            this.sittingsidebar.Controls.Add(this.btn_accont);
-            this.sittingsidebar.Controls.Add(this.button2);
-            this.sittingsidebar.Controls.Add(this.button3);
-            this.sittingsidebar.Controls.Add(this.button4);
-            this.sittingsidebar.Controls.Add(this.button5);
-            this.sittingsidebar.Controls.Add(this.button6);
-            this.sittingsidebar.Location = new System.Drawing.Point(3, 295);
-            this.sittingsidebar.Name = "sittingsidebar";
-            this.sittingsidebar.Size = new System.Drawing.Size(276, 0);
-            this.sittingsidebar.TabIndex = 39;
-            // 
-            // btn_accont
-            // 
-            this.btn_accont.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btn_accont.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_accont.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.btn_accont.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_accont.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_accont.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.btn_accont.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_accont.Location = new System.Drawing.Point(4, 338);
-            this.btn_accont.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_accont.Name = "btn_accont";
-            this.btn_accont.Size = new System.Drawing.Size(266, 63);
-            this.btn_accont.TabIndex = 7;
-            this.btn_accont.Text = "اعدادات الحساب";
-            this.btn_accont.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btn_accont.UseVisualStyleBackColor = false;
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.button2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(4, 270);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(266, 63);
-            this.button2.TabIndex = 6;
-            this.button2.Text = "النسخة والتحديثات";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button2.UseVisualStyleBackColor = false;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.button3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(4, 0);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(266, 63);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "الوقت والتاريخ";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button3.UseVisualStyleBackColor = false;
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.button4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(4, 202);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(266, 63);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "الاداء";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button4.UseVisualStyleBackColor = false;
-            // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.button5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(3, 68);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(266, 63);
-            this.button5.TabIndex = 5;
-            this.button5.Text = "الوضع الداكن";
-            this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button5.UseVisualStyleBackColor = false;
-            // 
-            // button6
-            // 
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.button6.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
-            this.button6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Silver;
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.ForeColor = System.Drawing.Color.BlanchedAlmond;
-            this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.Location = new System.Drawing.Point(3, 135);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(266, 63);
-            this.button6.TabIndex = 2;
-            this.button6.Text = "حول البرنامج";
-            this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button6.UseVisualStyleBackColor = false;
-            // 
             // home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(2025, 1123);
-            this.Controls.Add(this.settingsidebar);
             this.Controls.Add(this.form_panel);
             this.Controls.Add(this.depsidebar);
             this.Controls.Add(this.flomenu);
@@ -853,17 +808,16 @@
             this.Load += new System.EventHandler(this.home_Load);
             this.headpanal.ResumeLayout(false);
             this.headpanal.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.btnmin)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btnclose)).EndInit();
             this.hekmapanal.ResumeLayout(false);
             this.hekmapanal.PerformLayout();
-            this.settingsidebar.ResumeLayout(false);
             this.depsidebar.ResumeLayout(false);
             this.flomenu.ResumeLayout(false);
+            this.sittingsidebar.ResumeLayout(false);
             this.paneltableg.ResumeLayout(false);
             this.form_panel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.sittingsidebar.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.btnmin)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnclose)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -873,12 +827,6 @@
         private System.Windows.Forms.Panel headpanal;
         private System.Windows.Forms.Label labadmin;
         private System.Windows.Forms.Panel hekmapanal;
-        private System.Windows.Forms.Button btn_aaa;
-        private System.Windows.Forms.Panel settingsidebar;
-        private System.Windows.Forms.Button btn_aaaaa;
-        private System.Windows.Forms.Button btn_a;
-        private System.Windows.Forms.Button btn_aaaa;
-        private System.Windows.Forms.Button btn_aa;
         private System.Windows.Forms.Button btntatwer;
         public System.Windows.Forms.Panel depsidebar;
         private System.Windows.Forms.Button btnatsalat;
@@ -905,15 +853,17 @@
         public System.Windows.Forms.Button btnsetting;
         public System.Windows.Forms.FlowLayoutPanel flomenu;
         private System.Windows.Forms.Label labhekma;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_sysai;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel sittingsidebar;
         private System.Windows.Forms.Button btn_accont;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btn_backup;
+        private System.Windows.Forms.Button btn_settingp;
+        private System.Windows.Forms.Button btn_perform;
+        private System.Windows.Forms.Button btn_dark;
+        private System.Windows.Forms.Button btn_aboutproj;
+        public System.Windows.Forms.Button btn_support;
+        public System.Windows.Forms.Button btn_notee;
     }
 }
 

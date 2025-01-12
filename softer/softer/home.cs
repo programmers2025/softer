@@ -33,20 +33,19 @@ namespace softer
         {
             if (flomenu.Width == 50)
             {
-                flomenu.Width = 173;
+                flomenu.Width = 185;
             }
             else
             {
                 flomenu.Width = 50;
                 paneltableg.Visible = false;
                 depsidebar.Width = 0;
-                settingsidebar.Width = 0;
+                sittingsidebar.Height = 0;
             }
         }
 
         private void btnaksam_Click(object sender, EventArgs e)
         {
-
             if (flomenu.Width == 50)
             {
             }
@@ -55,7 +54,7 @@ namespace softer
                 if (depsidebar.Width == 0 || sittingsidebar.Width == 290)
                 {
                     //sittingsidebar.Width = 0;
-                    depsidebar.Width = 290;
+                    depsidebar.Width = 280;
 
                 }
                 else
@@ -68,7 +67,6 @@ namespace softer
 
         private void btnsetting_Click(object sender, EventArgs e)
         {
-
             if (flomenu.Width == 50)
             {
             }
@@ -137,5 +135,85 @@ namespace softer
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Size = new Size(1350, 730);
         }
+
+        private void btn_accont_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_aaaaa_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_aaaa_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_aaa_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_a_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_aa_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_sport_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
+
+        private void btn_notee_Click(object sender, EventArgs e)
+        {
+            if (flomenu.Width == 50)
+            { }
+            else
+            {
+                MessageBox.Show("ستتوفر قريباً");
+            }
+        }
     }
-}
+    }

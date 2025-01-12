@@ -403,7 +403,23 @@ namespace softer
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ستتوفر قريباً");
+             accept tab = new accept();
+            tab.TopLevel = false; 
+            tab.FormBorderStyle = FormBorderStyle.None;
+            tab.Dock = DockStyle.Fill;
+            var homeForm = Application.OpenForms["home"] as home;
+            if (homeForm != null)
+            {
+                homeForm.form_panel.Controls.Clear();
+                homeForm.form_panel.Controls.Add(tab);
+                tab.Show();
+                // ضبط عرض flomenu
+                homeForm.flomenu.Width = 50;
+                homeForm.btn_slide_main.Enabled = false;
+                //homeForm.panelaccept.Visible = false;
+            }
+           
+
         }
 
         private void button3_Click(object sender, EventArgs e)

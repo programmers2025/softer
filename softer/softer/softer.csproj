@@ -58,6 +58,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="accept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accept.Designer.cs">
+      <DependentUpon>accept.cs</DependentUpon>
+    </Compile>
     <Compile Include="login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +90,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="accept.resx">
+      <DependentUpon>accept.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
@@ -247,6 +256,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\interface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skills1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn-down1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team-performance1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brightness-and-contrast %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skills2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\integrity %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\بببسسسش-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\اضافةففففففففف-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\مراحل_القبول-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\integrity %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44558.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\445581.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\قبول_الاستقطاب-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\الاختبار_التحريري-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\المقابلة_الشخصية-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\التحري-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\مصادقة_المدير-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\المرحلة_التجريبية-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\185277.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

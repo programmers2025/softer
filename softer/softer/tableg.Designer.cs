@@ -627,8 +627,8 @@
             this.pictureinfo = new System.Windows.Forms.PictureBox();
             this.btnnext = new System.Windows.Forms.Button();
             this.back_to_home = new System.Windows.Forms.Button();
-            this.btn_tatwer = new System.Windows.Forms.Button();
-            this.btn_sport = new System.Windows.Forms.Button();
+            this.btn_user = new System.Windows.Forms.Button();
+            this.btn_accept = new System.Windows.Forms.Button();
             this.Form_astqtab8.SuspendLayout();
             this.group_tdqeq.SuspendLayout();
             this.Form_astqtab7.SuspendLayout();
@@ -697,7 +697,7 @@
             this.btntkarer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btntkarer.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.btntkarer.ForeColor = System.Drawing.Color.Black;
-            this.btntkarer.Location = new System.Drawing.Point(1222, 302);
+            this.btntkarer.Location = new System.Drawing.Point(1221, 478);
             this.btntkarer.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntkarer.Name = "btntkarer";
             this.btntkarer.Size = new System.Drawing.Size(518, 160);
@@ -5252,7 +5252,7 @@
             this.panelwtha.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelwtha.Name = "panelwtha";
             this.panelwtha.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.panelwtha.Size = new System.Drawing.Size(6508, 115);
+            this.panelwtha.Size = new System.Drawing.Size(11749, 115);
             this.panelwtha.TabIndex = 44;
             // 
             // btnblas2
@@ -7338,7 +7338,7 @@
             // back_to_home
             // 
             this.back_to_home.BackColor = System.Drawing.Color.Transparent;
-            this.back_to_home.BackgroundImage = global::softer.Properties.Resources.رجوع_removebg_preview;
+            this.back_to_home.BackgroundImage = global::softer.Properties.Resources.بببسسسش_removebg_preview;
             this.back_to_home.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.back_to_home.FlatAppearance.BorderSize = 0;
             this.back_to_home.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
@@ -7346,50 +7346,50 @@
             this.back_to_home.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.back_to_home.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
             this.back_to_home.ForeColor = System.Drawing.Color.Black;
-            this.back_to_home.Location = new System.Drawing.Point(1220, 759);
+            this.back_to_home.Location = new System.Drawing.Point(1216, 759);
             this.back_to_home.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.back_to_home.Name = "back_to_home";
-            this.back_to_home.Size = new System.Drawing.Size(520, 140);
+            this.back_to_home.Size = new System.Drawing.Size(523, 152);
             this.back_to_home.TabIndex = 26;
             this.back_to_home.UseVisualStyleBackColor = false;
             this.back_to_home.Click += new System.EventHandler(this.button2_Click_2);
             // 
-            // btn_tatwer
+            // btn_user
             // 
-            this.btn_tatwer.BackgroundImage = global::softer.Properties.Resources.ملاحظات_removebg_preview;
-            this.btn_tatwer.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn_tatwer.FlatAppearance.BorderSize = 0;
-            this.btn_tatwer.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btn_tatwer.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btn_tatwer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_tatwer.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
-            this.btn_tatwer.ForeColor = System.Drawing.Color.Black;
-            this.btn_tatwer.Location = new System.Drawing.Point(1223, 602);
-            this.btn_tatwer.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_tatwer.Name = "btn_tatwer";
-            this.btn_tatwer.Size = new System.Drawing.Size(517, 165);
-            this.btn_tatwer.TabIndex = 25;
-            this.btn_tatwer.UseVisualStyleBackColor = false;
-            this.btn_tatwer.Click += new System.EventHandler(this.button3_Click);
+            this.btn_user.BackgroundImage = global::softer.Properties.Resources.اضافةففففففففف_removebg_preview;
+            this.btn_user.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_user.FlatAppearance.BorderSize = 0;
+            this.btn_user.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btn_user.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btn_user.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_user.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
+            this.btn_user.ForeColor = System.Drawing.Color.Black;
+            this.btn_user.Location = new System.Drawing.Point(1214, 605);
+            this.btn_user.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_user.Name = "btn_user";
+            this.btn_user.Size = new System.Drawing.Size(517, 165);
+            this.btn_user.TabIndex = 25;
+            this.btn_user.UseVisualStyleBackColor = false;
+            this.btn_user.Click += new System.EventHandler(this.button3_Click);
             // 
-            // btn_sport
+            // btn_accept
             // 
-            this.btn_sport.BackColor = System.Drawing.Color.Transparent;
-            this.btn_sport.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_sport.BackgroundImage")));
-            this.btn_sport.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn_sport.FlatAppearance.BorderSize = 0;
-            this.btn_sport.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btn_sport.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btn_sport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_sport.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
-            this.btn_sport.ForeColor = System.Drawing.Color.Black;
-            this.btn_sport.Location = new System.Drawing.Point(1216, 438);
-            this.btn_sport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_sport.Name = "btn_sport";
-            this.btn_sport.Size = new System.Drawing.Size(525, 174);
-            this.btn_sport.TabIndex = 24;
-            this.btn_sport.UseVisualStyleBackColor = false;
-            this.btn_sport.Click += new System.EventHandler(this.button4_Click);
+            this.btn_accept.BackColor = System.Drawing.Color.Transparent;
+            this.btn_accept.BackgroundImage = global::softer.Properties.Resources.مراحل_القبول_removebg_preview;
+            this.btn_accept.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_accept.FlatAppearance.BorderSize = 0;
+            this.btn_accept.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btn_accept.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btn_accept.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_accept.Font = new System.Drawing.Font("Tahoma", 13F, System.Drawing.FontStyle.Bold);
+            this.btn_accept.ForeColor = System.Drawing.Color.Black;
+            this.btn_accept.Location = new System.Drawing.Point(1211, 316);
+            this.btn_accept.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_accept.Name = "btn_accept";
+            this.btn_accept.Size = new System.Drawing.Size(525, 174);
+            this.btn_accept.TabIndex = 24;
+            this.btn_accept.UseVisualStyleBackColor = false;
+            this.btn_accept.Click += new System.EventHandler(this.button4_Click);
             // 
             // tableg
             // 
@@ -7404,8 +7404,8 @@
             this.Controls.Add(this.btntadqeq);
             this.Controls.Add(this.btnadd);
             this.Controls.Add(this.back_to_home);
-            this.Controls.Add(this.btn_tatwer);
-            this.Controls.Add(this.btn_sport);
+            this.Controls.Add(this.btn_user);
+            this.Controls.Add(this.btn_accept);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -8001,8 +8001,8 @@
         private System.Windows.Forms.Button btnnext;
         private System.Windows.Forms.Button back_to_tableg;
         private System.Windows.Forms.Button back_to_home;
-        private System.Windows.Forms.Button btn_tatwer;
-        private System.Windows.Forms.Button btn_sport;
+        private System.Windows.Forms.Button btn_user;
+        private System.Windows.Forms.Button btn_accept;
         private System.Windows.Forms.ComboBox commdrasa4;
         private System.Windows.Forms.ComboBox commdrasa3;
         private System.Windows.Forms.ComboBox commdrasa2;
