@@ -280,6 +280,7 @@ C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.c
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.exe
 C:\Users\ASUS rog\Desktop\New folder (2)\softer\softer\softer\obj\Debug\softer.pdb
 C:\Users\Asus\Desktop\desinger\softer\softer\softer\obj\Debug\softer.accept.resources
+<<<<<<< HEAD
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\bin\Debug\softer.exe.config
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\bin\Debug\softer.exe
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\bin\Debug\softer.pdb
@@ -295,3 +296,21 @@ C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\obj\Debug\softer.csproj.Up2Date
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\obj\Debug\softer.exe
 C:\Users\alityan\Desktop\softer 13-1-2025\softer 12-1-2025 - Copy\softer\softer\obj\Debug\softer.pdb
+=======
+C:\Users\Asus\Desktop\git\softer\softer\softer\obj\Debug\softer.accept.resources
+>>>>>>> 6dfe3bb221a607e20d8456f7b2000b9a48f53b35
+C:\Users\alityan\Desktop\git\softer\softer\softer\bin\Debug\softer.exe.config
+C:\Users\alityan\Desktop\git\softer\softer\softer\bin\Debug\softer.exe
+C:\Users\alityan\Desktop\git\softer\softer\softer\bin\Debug\softer.pdb
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.csproj.AssemblyReference.cache
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.accept.resources
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.login.resources
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.home.resources
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.tableg.resources
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.Properties.Resources.resources
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.csproj.GenerateResource.cache
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.exe.licenses
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.csproj.CoreCompileInputs.cache
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.csproj.Up2Date
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.exe
+C:\Users\alityan\Desktop\git\softer\softer\softer\obj\Debug\softer.pdb
